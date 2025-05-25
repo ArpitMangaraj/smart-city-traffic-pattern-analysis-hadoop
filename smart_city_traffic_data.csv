@@ -1,0 +1,6 @@
+timestamp,location,vehicle_type,vehicle_count,speed_kmph
+2024-05-01 08:00:00,Junction A,Car,20,45
+2024-05-01 08:00:00,Junction A,Bike,15,50
+2024-05-01 08:00:00,Junction B,Truck,5,35
+2024-05-01 09:00:00,Junction A,Car,25,40
+2024-05-01 09:00:00,Junction B,Bus,10,30
